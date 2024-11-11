@@ -54,8 +54,8 @@
 
 ## Language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xieburoucoco\&layout=compact&theme=dark)
 
 ##  Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xieburoucoco\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
